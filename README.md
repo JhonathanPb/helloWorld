@@ -1,2 +1,2 @@
-# helloWorld
-Estudos CursoEmVideo - Primeiro RepositorioGithub
+# Hello World
+Primeiro Repositorio curso de Git e Github
