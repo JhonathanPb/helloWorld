@@ -100,7 +100,7 @@ Olá, Tudo bem?? 📖 🌳
 
 Para mais emojis Acesse [Acesse o GitHub da ikatyang](https://github.com/ikatyang/emoji-cheat-sheet)
 
-
+>
 > Fiz esse curso com as aulas gratuitas do site Curso em Video feito pelo ilustre.
 
 
